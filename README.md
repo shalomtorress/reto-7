@@ -37,6 +37,7 @@ while i < 1000:
     continue
   print(i)
 ```
+[![image.png](https://github.com/shalomtorress/reto-7/blob/main/punto2.png)
 + se inicializa la variable i en 1
 +  se inicia un ciclo while que se repite mientras i sea menor a 999
 +  se comprueba que el numero es par con el condicional if ```i%2==0``` Si si es par, se utiliza continue para ignorar el resto y que siga con el sguiente numero
@@ -58,6 +59,7 @@ if __name__ == "__main__":
   n = int(input("Introduce un número natural n: "))
   imprimir_numeros_pares(n)
 ````
+[![image.png]()
 + Si n es menor que 2, la función no imprime nada y se sale.
 + De lo contrario, la función inicializa la variable i en n.
 + La función utiliza un bucle while para iterar sobre todos los números pares desde 2 hasta n.
