@@ -59,7 +59,7 @@ if __name__ == "__main__":
   n = int(input("Introduce un número natural n: "))
   imprimir_numeros_pares(n)
 ````
-[![image.png]()
+[![image.png](https://github.com/shalomtorress/reto-7/blob/main/punto3.png)
 + Si n es menor que 2, la función no imprime nada y se sale.
 + De lo contrario, la función inicializa la variable i en n.
 + La función utiliza un bucle while para iterar sobre todos los números pares desde 2 hasta n.
