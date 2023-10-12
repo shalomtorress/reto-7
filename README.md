@@ -14,7 +14,7 @@ def listanumeros():
 if __name__ == "__main__":
   listanumeros()
 ```
-
+[![image.png](https://github.com/shalomtorress/reto-7/blob/main/punto1.png)
 + Se inicializa la variable i en 1.
 + Se inicia un bucle while que se repite mientras i sea menor o igual a 100.
 + Dentro del bucle while, se imprime el valor de i y su cuadrado
